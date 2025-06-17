@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Deeraj P Menon !<br>🎓 I'm an engineering student passionate about electronics, embedded systems, and building real-world projects.<br>🔧 I love working with microcontrollers like Arduino and ESP32, and exploring low-level coding.<br>🌐 I also enjoy building simple web interfaces to bring hardware projects online.<br>🚀 Always learning, experimenting, and turning ideas into working prototypes.<br>🤝 Open to collaboration and always up for a new challenge!<br><br>
+👋 Hi, I'm Deeraj P Menon !<br>🎓 I'm a second year engineering student at CUSAT , passionate about electronics, embedded systems, and building real-world projects.<br>🔧 I love working with microcontrollers like Arduino and ESP32, and exploring low-level coding.<br>🌐 I also enjoy building simple web interfaces to bring hardware projects online.<br>🚀 Always learning, experimenting, and turning ideas into working prototypes.<br>🤝 Open to collaboration and always up for a new challenge!<br><br>
 
 
 ## 🌐 Socials:
