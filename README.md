@@ -8,15 +8,13 @@
 
 ## About Me
 
-> **Passionate Electronics & Embedded Systems Developer**  
-> Second-year engineering student at **CUSAT** with a deep love for electronics, embedded systems, and building real-world projects. I thrive on exploring how hardware and software come together to create innovative solutions.
+> **Electronics & Embedded Systems Developer**  
+> Second-year engineering student at **CUSAT** passionate about building real-world projects with microcontrollers like **Arduino** and **ESP32**.
 
-**What I Do:**
-- Design and develop embedded systems projects
-- Work extensively with **Arduino** and **ESP32** microcontrollers
-- Bridge the gap between hardware and software
-- Continuously learning and experimenting with new technologies
-- Building practical solutions to real-world problems
+**Focus Areas:**
+- Embedded systems development
+- Hardware-software integration
+- Real-world problem solving
 
 ---
 
