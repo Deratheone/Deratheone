@@ -1,7 +1,7 @@
 # Hello, I'm Deeraj P Menon!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Electronics+and+Embedded+Systems+Enthusiast;Second+Year+Engineering+Student;Hardware+and+Software+Integration+Explorer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=23&duration=6000&pause=1000&center=true&vCenter=true&width=435&lines=Learning.+Building.+Innovating." alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -9,7 +9,7 @@
 ## About Me
 
 > **Electronics & Embedded Systems Developer**  
-> Second-year engineering student at **CUSAT** passionate about building real-world projects with microcontrollers like **Arduino** and **ESP32**.
+>Third-year B.Tech Electronics & Communication Engineering student at CUSAT, passionate about designing embedded systems, wireless communication solutions, and intelligent electronic hardware.
 
 **Focus Areas:**
 - Embedded systems development
@@ -59,30 +59,6 @@
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Deratheone&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Deratheone&theme=dark&hide_border=false" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deratheone&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## Contribution Graph
 
 <div align="center">
@@ -97,15 +73,6 @@
 
 ---
 
-## GitHub Achievements
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Deratheone&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
 
 ## Daily Inspiration
 
@@ -117,15 +84,6 @@
 
 ---
 
-## Top Contributed Repositories
-
-<div align="center">
-  
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Deratheone&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
 
 <div align="center">
   
